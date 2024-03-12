@@ -6,7 +6,7 @@ from babel.numbers import format_currency
 
 # Load data
 day_df = pd.read_csv("https://raw.githubusercontent.com/aldakurniaputri/Tugas_Akhir/main/dashboard/day_data.csv")
-hour_df = pd.read_csv("hour_data.csv")
+hour_df = pd.read_csv("https://raw.githubusercontent.com/aldakurniaputri/Tugas_Akhir/main/dashboard/hour_data.csv")
 
 
 # Set style
